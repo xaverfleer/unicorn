@@ -1,0 +1,17 @@
+{
+  "name": "unicorn",
+  "version": "1.0.0",
+  "private": true,
+  "description": "unicorn",
+  "author": "Xaver Fleer",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+  },
+  "dependencies": {
+    "gatsby": "^2.26.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
